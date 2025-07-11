@@ -107,7 +107,6 @@
 - **Languages**: Python 3.10
 - **Libraries**: pandas, numpy, scikit-learn, xgboost, shap, matplotlib, seaborn
 - **Modeling**: Random Forest, XGBoost, Logistic Regression
-- **Explainability**: SHAP
 - **Clustering**: KMeans, PCA
 - **Platform**: Jupyter Notebook (local + Colab-compatible)
 

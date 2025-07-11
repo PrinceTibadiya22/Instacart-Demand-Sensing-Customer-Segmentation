@@ -13,6 +13,26 @@
 > Cluster customers based on purchasing behavior to support personalization strategies.
 
 ---
+## 📚 Dataset
+
+### 🔗 [Instacart Market Basket Analysis Dataset](https://www.instacart.com/datasets/grocery-shopping-2017)
+
+> This dataset, originally released for a Kaggle competition, contains real-world grocery order data from Instacart, a popular online grocery delivery service. It includes over **3 million orders** from **200,000+ customers**, covering **50,000+ products**, grouped by **21 departments** and **134 aisles**.
+
+### 📦 Key Components:
+- `orders.csv`: Metadata about each order (order number, user, eval set, etc.)
+- `order_products__prior.csv`: Historical user-product purchase behavior
+- `order_products__train.csv`: Training labels indicating reorders
+- `products.csv`: Product names and metadata
+- `aisles.csv` & `departments.csv`: Category groupings for products
+
+### 🧠 Why This Dataset?
+- Represents large-scale user behavior in e-commerce
+- Enables analysis of:
+  - Product reorder prediction (demand sensing)
+  - User segmentation and retention
+  - Purchase patterns over time
+- Suitable for modeling **customer intelligence**, **recommendation systems**, and **retail analytics**
 
 ## 🧠 Project Workflow
 
